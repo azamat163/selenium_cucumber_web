@@ -1,0 +1,10 @@
+{
+  "chromedriverOS": "/src/main/resources/chromedriver",
+  "chromedriverWin": "/src/main/resources/chromedriver.exe",
+  "chromedriverUnix": "/src/main/resources/chromedriverlinux",
+  "baseUrl": "http://stable.ezd.altarix.org/",
+  "path_screenshot_pass": "/Screenshots_pass/",
+  "path_screenshot_err": "/Screenshots_error/",
+  "localhost": "localhost",
+  "port":27017
+}
